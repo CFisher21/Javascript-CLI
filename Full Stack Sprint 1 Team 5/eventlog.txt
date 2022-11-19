@@ -1,0 +1,14 @@
+ app fully initialized, init --all
+config --show
+config --set
+config --show
+config --reset
+config --show
+text --show
+text --add
+text --show
+text --check
+text --add
+help file displayed, init help
+app fully initialized, init --all
+app fully initialized, init --all
